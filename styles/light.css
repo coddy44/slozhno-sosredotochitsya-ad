@@ -1,7 +1,7 @@
 :root.theme-light {
   --title-color: #FFC2E6;
   --text-color: #353430;
-  --sub-text-color: #353430;
+  --title-text-color: #353430;
   --accent-color: #ff8dcb;
   --btn-color:#353430;
   --backgroung-image: url(../images/cover-image-light.png);
@@ -19,7 +19,7 @@
   :root {
     --title-color: #FFC2E6;
     --text-color: #353430;
-    --sub-text-color: #353430;
+    --title-text-color: #353430;
     --accent-color: #ff8dcb;
     --btn-color:#353430;
     --backgroung-image: url(../images/cover-image-light.png);

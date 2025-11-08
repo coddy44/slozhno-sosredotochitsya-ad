@@ -117,7 +117,7 @@
   background-color: var(--accent-color);
   font-size: var(--font-size);
   line-height: 23.4px;
-  color: var(--sub-text-color);
+  color: var(--title-text-color);
   max-inline-size: 491px;
   max-block-size: 71px;
   justify-self: end;
@@ -143,7 +143,7 @@
   background-color: var(--accent-color);
   font-size: var(--font-size);
   line-height: 23.4px;
-  color: var(--sub-text-color);
+  color: var(--title-text-color);
 }
 .main-block-text {
   font-size: var(--font-size);
@@ -217,7 +217,7 @@
   background-color: var(--accent-color);
   font-size: var(--font-size);
   line-height: 23.4px;
-  color: var(--sub-text-color);
+  color: var(--title-text-color);
 }
 
 .section3__main-block {
@@ -243,7 +243,7 @@
   background-color: var(--accent-color);
   font-size: var(--font-size);
   line-height: 23.4px;
-  color: var(--sub-text-color);
+  color: var(--title-text-color);
 }
 
 .image-container {
