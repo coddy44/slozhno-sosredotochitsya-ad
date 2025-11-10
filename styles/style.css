@@ -91,17 +91,6 @@
   margin: 20px;
 }
 
-.frame::after {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  content: "";
-  border-bottom: 1px solid var(--btn-color);
-  border-left: 1px solid var(--btn-color);
-  inline-size: 25px;
-  block-size: 25px;
-  margin: 20px;
-}
 
 .header__title {
   margin-left: -20px;
